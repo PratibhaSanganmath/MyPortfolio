@@ -1,2 +1,2 @@
 # MyPortfolio
-Creating a Resume using html codes
+Created a Resume using html code
